@@ -1,0 +1,19 @@
+{
+  "name": "COOOOOO Finance",
+  "logoURI": "https://docs.velodrome.finance/velodrome.svg",
+  "keywords": [
+    "layer2",
+    "amm"
+  ],
+  "timestamp": "2021-05-22T10:01:21.042+00:00",
+  "tokens": [
+    {
+      "address": "0x000000000e1d682cc39abe9b32285fdea1255374",
+      "chainId": "core",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
+      "name": "CORE ID Token",
+      "symbol": "CID"
+    }
+  ]
+}
